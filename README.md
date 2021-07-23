@@ -3,6 +3,12 @@ You can run application via maven:
 
 mvn compile exec:java -Dexec.mainClass="pl.storeware.calculator.Main"
 
+In my implementation i set the input as set of operations : ADD, SUB, MUL, DIV, MOD, APPLY and integer. 
+
+There are unit tests that you can run by command:
+
+mvn test
+
 # Description
 Instructions comprise of a keyword and a number that are separated by a space per
 line. Instructions are loaded from file and results are output to the screen. Any number
