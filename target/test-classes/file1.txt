@@ -1,6 +1,0 @@
-ADD 6
-SUB 2
-DIV 2
-mul 3
-MOD 10
-apply 10

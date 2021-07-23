@@ -1,3 +1,0 @@
-ADD 2
-mul 3
-apply 10
